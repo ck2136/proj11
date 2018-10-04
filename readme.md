@@ -18,3 +18,5 @@ TYPE ":wq" and enter  w for write q for quit
 TO DELETE FILE 
 
 rm -rf file file2 file3 dir/ dir2 dir3/
+
+# SMall change!
