@@ -13,3 +13,8 @@ RETURN TO NORMAL MODE BY TYPING "i" OR "a"
 TO EXIT OUT OF VIM  STAY IN NORMAL MODE
 
 TYPE ":wq" and enter  w for write q for quit
+
+
+TO DELETE FILE 
+
+rm -rf file file2 file3 dir/ dir2 dir3/
